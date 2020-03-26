@@ -1,0 +1,23 @@
+{
+  "name": "practice-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server . -o -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoKu-gaga/practice-pwa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoKu-gaga/practice-pwa/issues"
+  },
+  "homepage": "https://github.com/GoKu-gaga/practice-pwa#readme",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
